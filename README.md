@@ -2,7 +2,7 @@
 A JUCE-based audio plugin for generating subtle 2nd and 3rd order harmonics.
 
 ## Download
-Download compiled plugins (VST3, LV2) from the [Releases page](https://github.com/luna-co-software/HarmonicGeneratorPlugin/releases).
+Download compiled plugins (VST3, LV2) from the [Releases page](https://github.com/luna-co-software/HarmonicGeneratorPlugin/releases). These are for Linux only at the moment. I will try to compile for Mac and Windows when I have time.
 
 ## Installation
 - **VST3**: Copy `HarmonicGenerator.vst3` to `~/.lv2` (Linux) 
